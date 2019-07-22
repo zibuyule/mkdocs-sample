@@ -1,10 +1,12 @@
 # MkDocs - Sample
 Markdown Docs with Material Theme.
 
-### Install Mkdocs
+### Install
+```
+pip install -IU -r requirements.txt
+```
 
-Go to [homepage](http://www.mkdocs.org/).
-
-### Install Material Theme
-
-Go to [Repository](https://github.com/squidfunk/mkdocs-material)
+### Run
+```
+mkdocs serve 
+```
