@@ -2,7 +2,7 @@ site_name: GianDocs
 site_description: 'A Material Design theme for MkDocs'
 site_author: 'Giancarlos Salas'
 repo_url: 'https://github.com/giansalex/mkdocs-sample'
-pages:
+nav:
     - Home: index.md
     - About: about.md
     - Code: code.md
@@ -20,8 +20,8 @@ extra_javascript:
 
 extra:
   social:
-    - type: 'github'
-      link: 'https://github.com/giansalex'
+    - icon: fontawesome/brands/github
+      link: https://github.com/giansalex
 
 markdown_extensions:
   - admonition
