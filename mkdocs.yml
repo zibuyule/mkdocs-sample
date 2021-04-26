@@ -18,7 +18,3 @@ extra_css:
 extra_javascript:
   - js/prism.js
 
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/giansalex
